@@ -1,0 +1,2 @@
+# NgSolitaire
+Angular Solitaire framework
